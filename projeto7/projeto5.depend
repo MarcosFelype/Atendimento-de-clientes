@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1723563096 source:c:\users\cassi\videos\programas em c\projeto5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1723566281 source:c:\users\cassi\videos\programas em c\projeto6\main.c
+	<stdio.h>
+	"cliente.h"
+
+1723566281 c:\users\cassi\videos\programas em c\projeto6\cliente.h
+
+1723567148 source:c:\users\cassi\videos\programas em c\projeto7\main.c
+	<stdio.h>
+	"cliente.h"
+
+1723566281 c:\users\cassi\videos\programas em c\projeto7\cliente.h
+
