@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1723568561 source:c:\users\cassi\videos\programas em c\projeto7\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1723575636 c:\users\cassi\videos\programas em c\projeto7\cliente.h
+
+1723575636 source:c:\users\cassi\videos\programas em c\projeto7\main.c
+	<stdio.h>
+	<locale.h>
+	"cliente.h"
+

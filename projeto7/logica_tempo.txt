@@ -1,0 +1,7 @@
+
+if (cliente == 1º da fila){
+  atual->tempoEspera = 0;
+}else if(cliente == 2º da fila){
+  atual->tempoEspera = atual->tempoOperacoes(atual->ant) //o tempo de espera do 2° é o tempo das operações do primeiro.
+  //utilização da variável ant (a ser criada) do tipo cliente, a fim de retornar o cliente anterior da fila
+}
