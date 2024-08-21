@@ -14,6 +14,7 @@ typedef struct Cliente {
     Prioridade prioridade;     // Prioridade do cliente (ALTA, MEDIA, BAIXA)
     int tempoOperacoes;            // Adicionado para armazenar o tempo total das opera�es do cliente
     int tempoEspera;            // Tempo pelo qual o cliente esperou na fila
+    struct Cliente* anterior; // Ponteiro para o cliente anterior na fila
     struct Cliente* proximo;   // Ponteiro para o pr�ximo cliente na lista
 } Cliente; // Nome do tipo struct: Cliente
 
