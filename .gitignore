@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Outras adições
+.ccls-cash/
+main
+main-debug
+*.replit
+*.nix
+Makefile
+replit_zip_error_log.txt
